@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def add_tuple(tuple_a=(), tuple_b=()):
     """Add two tuples."""
     # Ensure both tuples have at least 2 elements
