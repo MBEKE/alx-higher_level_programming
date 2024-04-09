@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 def safe_print_list_integers(my_list=[], x=0):
     printed_integers = 0
 
@@ -12,6 +11,5 @@ def safe_print_list_integers(my_list=[], x=0):
         pass
     finally:
         print()
-
 
     return printed_integers
